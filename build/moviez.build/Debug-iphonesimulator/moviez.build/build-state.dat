@@ -1,0 +1,315 @@
+Tmoviez
+v7
+r0
+t313872919.735645
+cCheck dependencies
+cProcessInfoPlistFile /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/Info.plist moviez-Info.plist
+cCompileXIB /Users/jamesbauer/Documents/moviez/MainWindow.xib
+cCompileXIB /Users/jamesbauer/Documents/moviez/moviezViewController.xib
+cCompileXIB /Users/jamesbauer/Documents/moviez/Classes/detailz.xib
+cProcessPCH /var/folders/Up/UpC+n3snF9WYYNxEY1WbLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moviez_Prefix-dmyrvqpxllghhzhcvcsyhuyaklvs/moviez_Prefix.pch.gch moviez_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/main.o /Users/jamesbauer/Documents/moviez/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviezAppDelegate.o /Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviezViewController.o /Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/detailz.o /Users/jamesbauer/Documents/moviez/Classes/detailz.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez normal i386
+cGenerateDSYMFile /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app.dSYM /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez
+cTouch /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/jamesbauer/Documents/moviez/Classes/detailz.h
+c000000004D0519BF0000000000000149
+t1292179903
+s329
+i<UIKit/UIKit.h>
+
+N/Users/jamesbauer/Documents/moviez/Classes/detailz.m
+c000000004D051A240000000000000514
+t1292180004
+s1300
+i"detailz.h"
+
+N/Users/jamesbauer/Documents/moviez/Classes/detailz.xib
+c000000004D0519EA0000000000004684
+t1292179946
+s18052
+
+N/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.h
+c000000004D051662000000000000026E
+t1292179042
+s622
+i<UIKit/UIKit.h>
+
+N/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m
+c000000004D051A240000000000000D72
+t1292180004
+s3442
+i"moviezAppDelegate.h"
+i"moviezViewController.h"
+i"detailz.h"
+
+N/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.h
+c000000004D0515860000000000000171
+t1292178822
+s369
+i<UIKit/UIKit.h>
+
+N/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m
+c000000004D0516B20000000000000619
+t1292179122
+s1561
+i"moviezViewController.h"
+
+N/Users/jamesbauer/Documents/moviez/MainWindow.xib
+c000000004D051A8F00000000000073F3
+t1292180111
+s29683
+
+N/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app
+t1292180119
+s272
+
+N/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app.dSYM
+t1292180014
+s102
+
+N/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/Info.plist
+t1292178141
+s587
+
+N/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/MainWindow.nib
+t1292180119
+s3225
+
+N/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/PkgInfo
+t1292178141
+s8
+
+N/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/detailz.nib
+t1292180010
+s1802
+
+N/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez
+t1292180014
+s24556
+
+N/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviezViewController.nib
+t1292179630
+s1887
+
+N/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/detailz.o
+t1292180013
+s39208
+
+N/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/main.o
+t1292178155
+s6296
+
+N/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviez.LinkFileList
+c000000004D05144700000000000001F0
+t1292178503
+s496
+
+N/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviezAppDelegate.o
+t1292180012
+s53292
+
+N/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviezViewController.o
+t1292179124
+s40976
+
+N/Users/jamesbauer/Documents/moviez/main.m
+c000000004D0511300000000000000168
+t1292177712
+s360
+i<UIKit/UIKit.h>
+
+N/Users/jamesbauer/Documents/moviez/moviezViewController.xib
+c000000004D05187600000000000053CC
+t1292179574
+s21452
+
+N/Users/jamesbauer/Documents/moviez/moviez_Prefix.pch
+c000000004D05113000000000000000B5
+t1292177712
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Up/UpC+n3snF9WYYNxEY1WbLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moviez_Prefix-dmyrvqpxllghhzhcvcsyhuyaklvs/moviez_Prefix.pch.gch
+t1292178154
+s10204720
+
+Nmoviez-Info.plist
+c000000004D051130000000000000038D
+t1292177712
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313872913#313872913#0(0"0(0#1#0"542832#0"0#
+
+CCompileC build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/detailz.o /Users/jamesbauer/Documents/moviez/Classes/detailz.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313872812.297194
+e313872813.703379
+r1
+xCompileC
+xbuild/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/detailz.o
+x/Users/jamesbauer/Documents/moviez/Classes/detailz.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jamesbauer/Documents/moviez/Classes/detailz.m313872812#313872813#0(0"0(0#0#52"/Users/jamesbauer/Documents/moviez/Classes/detailz.m542832#1864"    cd /Users/jamesbauer/Documents/moviez    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-generated-files.hmap -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-own-target-headers.hmap -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-all-target-headers.hmap -iquote /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-project-headers.hmap -F/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator -I/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/include -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/DerivedSources/i386 -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/DerivedSources -include /var/folders/Up/UpC+n3snF9WYYNxEY1WbLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moviez_Prefix-dmyrvqpxllghhzhcvcsyhuyaklvs/moviez_Prefix.pch -c /Users/jamesbauer/Documents/moviez/Classes/detailz.m -o /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/detailz.o0#
+
+CCompileC build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/main.o /Users/jamesbauer/Documents/moviez/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313870954.409044
+e313870955.349166
+r1
+xCompileC
+xbuild/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/main.o
+x/Users/jamesbauer/Documents/moviez/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/jamesbauer/Documents/moviez/main.m313870954#313870955#0(0"0(0#0#41"/Users/jamesbauer/Documents/moviez/main.m542832#1850"    cd /Users/jamesbauer/Documents/moviez    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-generated-files.hmap -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-own-target-headers.hmap -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-all-target-headers.hmap -iquote /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-project-headers.hmap -F/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator -I/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/include -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/DerivedSources/i386 -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/DerivedSources -include /var/folders/Up/UpC+n3snF9WYYNxEY1WbLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moviez_Prefix-dmyrvqpxllghhzhcvcsyhuyaklvs/moviez_Prefix.pch -c /Users/jamesbauer/Documents/moviez/main.m -o /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/main.o0#
+
+CCompileC build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviezAppDelegate.o /Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313872810.736261
+e313872812.295528
+r1
+xCompileC
+xbuild/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviezAppDelegate.o
+x/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m: In function '-[moviezAppDelegate movieClicked:]':
+o/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m:35: warning: 'moviezAppDelegate' may not respond to '-GetMovieDetails:'
+o/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m:35: warning: (Messages without a matching method signature
+o/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m:35: warning: will be assumed to return 'id' and accept
+o/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m:35: warning: '...' as arguments.)
+lSLF07#2@70"Compile /Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m313872810#313872812#0(586"/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m: In function '-[moviezAppDelegate movieClicked:]':/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m:35: warning: 'moviezAppDelegate' may not respond to '-GetMovieDetails:'/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m:35: warning: (Messages without a matching method signature/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m:35: warning: will be assumed to return 'id' and accept/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m:35: warning: '...' as arguments.)2(22@58"'moviezAppDelegate' may not respond to '-GetMovieDetails:'313872811#114#135#0(6@62"/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m313872804#35#0#35#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313872811#249#122#0(6@62"/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m313872804#35#0#35#0#0"0(0#0#62"/Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m542832#1884"    cd /Users/jamesbauer/Documents/moviez    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-generated-files.hmap -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-own-target-headers.hmap -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-all-target-headers.hmap -iquote /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-project-headers.hmap -F/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator -I/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/include -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/DerivedSources/i386 -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/DerivedSources -include /var/folders/Up/UpC+n3snF9WYYNxEY1WbLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moviez_Prefix-dmyrvqpxllghhzhcvcsyhuyaklvs/moviez_Prefix.pch -c /Users/jamesbauer/Documents/moviez/Classes/moviezAppDelegate.m -o /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviezAppDelegate.o0#
+
+CCompileC build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviezViewController.o /Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313871922.454766
+e313871924.923817
+r1
+xCompileC
+xbuild/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviezViewController.o
+x/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m: In function '-[moviezViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m:31: warning: no '-movieClicked:' method found
+o/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m:31: warning: (Messages without a matching method signature
+o/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m:31: warning: will be assumed to return 'id' and accept
+o/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m:31: warning: '...' as arguments.)
+lSLF07#2@73"Compile /Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m313871922#313871924#0(599"/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m: In function '-[moviezViewController tableView:didSelectRowAtIndexPath:]':/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m:31: warning: no '-movieClicked:' method found/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m:31: warning: (Messages without a matching method signature/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m:31: warning: will be assumed to return 'id' and accept/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m:31: warning: '...' as arguments.)2(22@32"No '-movieClicked:' method found313871924#141#112#0(6@65"/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m313871922#31#0#31#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313871924#253#125#0(6@65"/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m313871922#31#0#31#0#0"0(0#0#65"/Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m542832#1890"    cd /Users/jamesbauer/Documents/moviez    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-generated-files.hmap -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-own-target-headers.hmap -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-all-target-headers.hmap -iquote /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-project-headers.hmap -F/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator -I/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/include -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/DerivedSources/i386 -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/DerivedSources -include /var/folders/Up/UpC+n3snF9WYYNxEY1WbLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moviez_Prefix-dmyrvqpxllghhzhcvcsyhuyaklvs/moviez_Prefix.pch -c /Users/jamesbauer/Documents/moviez/Classes/moviezViewController.m -o /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviezViewController.o0#
+
+CCompileXIB /Users/jamesbauer/Documents/moviez/Classes/detailz.xib
+s313872804.455045
+e313872810.734446
+r1
+xCompileXIB
+x/Users/jamesbauer/Documents/moviez/Classes/detailz.xib
+lSLF07#2@30"CompileXIB Classes/detailz.xib313872804#313872810#0(0"0(0#0#54"/Users/jamesbauer/Documents/moviez/Classes/detailz.xib542832#559"    cd /Users/jamesbauer/Documents/moviez    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/detailz.nib /Users/jamesbauer/Documents/moviez/Classes/detailz.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/jamesbauer/Documents/moviez/MainWindow.xib
+s313872913.848503
+e313872919.663907
+r1
+xCompileXIB
+x/Users/jamesbauer/Documents/moviez/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib313872913#313872919#0(0"0(0#0#49"/Users/jamesbauer/Documents/moviez/MainWindow.xib542832#557"    cd /Users/jamesbauer/Documents/moviez    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/MainWindow.nib /Users/jamesbauer/Documents/moviez/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/jamesbauer/Documents/moviez/moviezViewController.xib
+s313872427.255421
+e313872431.141404
+r1
+xCompileXIB
+x/Users/jamesbauer/Documents/moviez/moviezViewController.xib
+lSLF07#2@35"CompileXIB moviezViewController.xib313872427#313872431#0(0"0(0#0#59"/Users/jamesbauer/Documents/moviez/moviezViewController.xib542832#577"    cd /Users/jamesbauer/Documents/moviez    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviezViewController.nib /Users/jamesbauer/Documents/moviez/moviezViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app.dSYM /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez
+s313872814.087612
+e313872814.415567
+r1
+xGenerateDSYMFile
+x/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app.dSYM
+x/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/moviez.app.dSYM build/Debug-iphonesimulator/moviez.app/moviez313872814#313872814#0(0"0(0#0#80"/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez542832#368"    cd /Users/jamesbauer/Documents/moviez    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez -o /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app.dSYM0#
+
+CLd /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez normal i386
+s313872813.703703
+e313872814.087221
+r1
+xLd
+x/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez
+xnormal
+xi386
+lSLF07#2@85"Link /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez313872813#313872814#0(0"0(0#0#0"542832#875"    cd /Users/jamesbauer/Documents/moviez    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator -F/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator -filelist /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/Objects-normal/i386/moviez.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/moviez0#
+
+CProcessInfoPlistFile /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/Info.plist moviez-Info.plist
+s313870940.999335
+e313870941.049542
+r1
+xProcessInfoPlistFile
+x/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/Info.plist
+xmoviez-Info.plist
+lSLF07#2@25"Process moviez-Info.plist313870941#313870941#0(0"0(0#0#52"/Users/jamesbauer/Documents/moviez/moviez-Info.plist24580168#464"    cd /Users/jamesbauer/Documents/moviez    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility moviez-Info.plist -genpkginfo /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app/Info.plist0#
+
+CProcessPCH /var/folders/Up/UpC+n3snF9WYYNxEY1WbLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moviez_Prefix-dmyrvqpxllghhzhcvcsyhuyaklvs/moviez_Prefix.pch.gch moviez_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313870951.558779
+e313870954.408726
+r1
+xProcessPCH
+x/var/folders/Up/UpC+n3snF9WYYNxEY1WbLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moviez_Prefix-dmyrvqpxllghhzhcvcsyhuyaklvs/moviez_Prefix.pch.gch
+xmoviez_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile moviez_Prefix.pch313870951#313870954#0(0"0(0#0#52"/Users/jamesbauer/Documents/moviez/moviez_Prefix.pch542832#1747"    cd /Users/jamesbauer/Documents/moviez    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-generated-files.hmap -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-own-target-headers.hmap -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-all-target-headers.hmap -iquote /Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/moviez-project-headers.hmap -F/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator -I/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/include -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/DerivedSources/i386 -I/Users/jamesbauer/Documents/moviez/build/moviez.build/Debug-iphonesimulator/moviez.build/DerivedSources -c /Users/jamesbauer/Documents/moviez/moviez_Prefix.pch -o /var/folders/Up/UpC+n3snF9WYYNxEY1WbLk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/moviez_Prefix-dmyrvqpxllghhzhcvcsyhuyaklvs/moviez_Prefix.pch.gch0#
+
+CTouch /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app
+s313872919.668505
+e313872919.735392
+r1
+xTouch
+x/Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app
+lSLF07#2@79"Touch /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app313872919#313872919#0(0"0(0#0#0"542832#269"    cd /Users/jamesbauer/Documents/moviez    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jamesbauer/Documents/moviez/build/Debug-iphonesimulator/moviez.app0#
+
